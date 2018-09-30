@@ -1,0 +1,9 @@
+com\allash\bootdemo\model\mapper\WUserSqlProvider.class
+com\allash\bootdemo\model\pojo\WUserExample.class
+com\allash\bootdemo\BootdemoApplication.class
+com\allash\bootdemo\model\pojo\WUser.class
+com\allash\bootdemo\model\mapper\WUserMapper.class
+com\allash\bootdemo\model\pojo\WUserExample$Criterion.class
+com\allash\bootdemo\controller\UserController.class
+com\allash\bootdemo\model\pojo\WUserExample$Criteria.class
+com\allash\bootdemo\model\pojo\WUserExample$GeneratedCriteria.class
